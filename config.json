@@ -1,0 +1,17 @@
+{
+  "BAN_DURATION": 5,
+  "MAX_TEMP_BANS": 3,
+  "TIME_FOR_MAX_PACKETS": 10,
+  "MAX_PACKETS_THRESHOLD": 10,
+  "BLOCKED_PACKET_THRESHOLD": 10,
+  "BLOCKED_PORT": 4000,
+  "LOGIN_PORT": 6112,
+  "FIREWALL_RESTART": "True",
+  "FIREWALL_RESTART_HOURS": 1,
+  "PROCESS_MONITOR": "True",
+  "PROCESS_NAME": "D2GS.exe",
+  "PROCESS_PATH": "C:\\D2GS\\D2GS.exe",
+  "BANNED_IPS_FILE": "banned_ips.json",
+  "PERMABAN_IPS_FILE": "permaban_ips.json",
+  "TEMP_PERMABAN_IPS_FILE": "temp_permaban_ips.json"
+}
